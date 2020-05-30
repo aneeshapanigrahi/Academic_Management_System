@@ -1,0 +1,5 @@
+crate a firebase project 
+download the image and application file
+copy paste your firebase project config info into cofig part of application  file
+change the path of image in application file
+execute the application file 

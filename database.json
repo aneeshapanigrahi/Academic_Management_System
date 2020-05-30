@@ -1,0 +1,264 @@
+{
+  "admin" : {
+    "HCB08b0wVjOhlHYeS9cKfh3AjSG3" : {
+      "coe" : [ null, "aaa", "bbb" ],
+      "notes" : {
+        "A" : {
+          "1" : "COMPUTER ORGANISATION",
+          "2" : "18CS3DCCOG",
+          "3" : "/drive/folders/12rr0M27arXV-AUN3U5wXSNsJBX5qCda0Meg",
+          "4" : "OOPS WITH JAVA",
+          "5" : "18CS3DCOPJ",
+          "6" : "/drive/folders/das10M27arXV-AUN3U5wXSNsJBX5qCda0keg",
+          "7" : "WEB PROGRAMMING",
+          "8" : "18CS3DCIWP",
+          "9" : "/drive/folders/ds10M27arXV-AUN3U5wXSNsJBX5qCda0Maas",
+          "10" : "DATA  STRUCTURES",
+          "11" : "18CS3DCDSA",
+          "12" : "/drive/folders/asdarXV-AUN3U5wXSNsJBX5qCda0Megasdas",
+          "13" : "LOGIC DESIGN",
+          "14" : "18CS3DCLDN",
+          "15" : "/drive/folders/as27arXV-AUN3U5wXSNsJBX5qCda0Megasas",
+          "subject" : [ null, "COMPUTER ORGANISATION", "OOPS WITH JAVA", "WEB PROGRAMMING", "DATA  STRUCTURES", "LOGIC DESIGN" ]
+        },
+        "B" : {
+          "1" : "SOLID MECHANICS",
+          "2" : "18CS4DCHHH",
+          "3" : "/drive/folders/assafdttarXV-AUN3U5wXSNsJBX5qCda0keg",
+          "4" : "THERMODYNAMICS TWO",
+          "5" : "18CS4DCFFF",
+          "6" : "/drive/folders/yhyyt27arXV-AUN3U5wXSNsJBX5qCda0Maas",
+          "7" : "TORQUE",
+          "8" : "18CS4DCGGG",
+          "9" : "/drive/folders/M27arXV-AUN3U5wXSNsJBX5qCda0Megasdas",
+          "10" : "MATHEMATICS TWO ",
+          "11" : "18CS4DCKKK",
+          "12" : "/drive/folders/wee7arXV-AUN3U5wXSNsJBX5qCda0Megasas",
+          "13" : "ROTATION DYNAMICS",
+          "14" : "18CS4DCSAD",
+          "15" : "/drive/folders/sadsasdatrXV-AUN3U5wXSNsJBX5qCda0Meg",
+          "subject" : [ null, "SOLID MECHANICS", "THERMODYNAMICS TWO", "TORQUE", "MATHEMATICS TWO ", "ROTATION DYNAMICS" ]
+        },
+        "C" : {
+          "1" : "OPERATING SYSTEMS",
+          "2" : "18CS4DCOPS",
+          "3" : "/drive/folders/sadsasdatrXV-AUN3U5wXSNsJBX5qCda0Meg",
+          "4" : "AUTOMATA",
+          "5" : "18CS4DCAFL",
+          "6" : "/drive/folders/assafdttarXV-AUN3U5wXSNsJBX5qCda0keg",
+          "7" : "MICRO PROCESSORS",
+          "8" : "18CS4DCMMC",
+          "9" : "/drive/folders/yhyyt27arXV-AUN3U5wXSNsJBX5qCda0Maas",
+          "10" : "DATABASE MANAGEMENT",
+          "11" : "18CS4DCDBM",
+          "12" : "/drive/folders/M27arXV-AUN3U5wXSNsJBX5qCda0Megasdas",
+          "13" : "DATA ALGORITHMS",
+          "14" : "18CS4DCDAA",
+          "15" : "/drive/folders/wee7arXV-AUN3U5wXSNsJBX5qCda0Megasas",
+          "subject" : [ null, "OPERATING SYSTEMS", "AUTOMATA", "MICRO PROCESSORS", "DATABASE MANAGEMENT", "DATA ALGORITHMS" ]
+        },
+        "E" : {
+          "1" : "HARDWARE STUDY",
+          "2" : "18CS3DCCOG",
+          "3" : "/drive/folders/12rr0M27arXV-AUN3U5wXSNsJBX5qCda0Meg",
+          "4" : "THERMODYNAMICS ONE",
+          "5" : "18CS3DCOPJ",
+          "6" : "/drive/folders/das10M27arXV-AUN3U5wXSNsJBX5qCda0keg",
+          "7" : "ELECTROSTATICS",
+          "8" : "18CS3DCIWP",
+          "9" : "/drive/folders/ds10M27arXV-AUN3U5wXSNsJBX5qCda0Maas",
+          "10" : "MATHEMATICS",
+          "11" : "18CS3DCDSA",
+          "12" : "/drive/folders/asdarXV-AUN3U5wXSNsJBX5qCda0Megasdas",
+          "13" : "FLUIDS",
+          "14" : "18CS3DCLDN",
+          "15" : "/drive/folders/as27arXV-AUN3U5wXSNsJBX5qCda0Megasas",
+          "subject" : [ null, "HARDWARE STUDY", "THERMODYNAMICS ONE", "ELECTROSTATICS", "MATHEMATICS", "FLUIDS" ]
+        }
+      },
+      "syllabus" : {
+        "a" : [ null, "INTRODUCTION", "INPUT/OUTPUT ORGANISATION", "MEMORY SYSTEM", "ARITHMETIC", "BASIC PROCESSING UNIT", "OVERVIEW", "METHODS AND CLASSES", "PACKAGES AND INTERFACES", "MULTITHREADED PROGRAMMING", "GENERICS AND STRING", "FUNDAMENTALS", "JAVASCRIPT", "DYNAMIC JAVASCRIPT", "XML AND PHP", "WEB APPLICATIONS", "BASIC CONCEPTS", "STACK AND QUEUES", "LINKED LISTS", "TREES", "EFFICIENT BST", "BOOLEAN EXPRESSIONS", "DATA PROCESSING CIRCUITS", "SEQUENTIAL DESIGN", "SHIFT REGISTERS", "APPLICATION OF LOGIC DESIGN" ],
+        "b" : [ null, "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b", "1b" ],
+        "c" : [ null, "WHAT IS OS", "PROCESS MANAGEMENT", "PROCESS COORDINATION", "MEMORY MANAGEMENT", "STORAGE", "FINITE AUTOMATA", "REGULAR EXPRESSION", "CONTEXT FREE GRAMMER", "PUSH DOWN AUTOMATA", "TURING MACHINE", "ARCHITECTURE OF 8086", "INTERRUPTS", "I/O INTERFACE", "8051 ARCHITECTURE", "8051 PROGRMMING", "DATABASE BASICS", "RELATION MODEL", "SQL", "NOSQL", "DATABASE DESIGN", "FUNDAMENTALS", "DEVIDE AND CONQUER", "SPACE TRADE OFFS", "GREDDY TECHNIQUE", "PRAM, PARALLEL ALGO" ],
+        "e" : [ null, "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e", "1e" ]
+      },
+      "timetable" : {
+        "A" : [ null, "COMPUTER ORGANISATION", "DATA  STRUCTURES", "WEB PROGRAMMING", "OOPS WITH JAVA", "", "", "COMPUTER ORGANISATION", "OOPS WITH JAVA", "WEB PROGRAMMING", "LOGIC DESIGN", "", "", "OOPS WITH JAVA", "COMPUTER ORGANISATION", "LOGIC DESIGN", "DATA  STRUCTURES", "", "", "LOGIC DESIGN", "DATA  STRUCTURES", "COMPUTER ORGANISATION", "", "", "", "COMPUTER ORGANISATION", "DATA  STRUCTURES", "WEB PROGRAMMING", "LOGIC DESIGN", "OOPS WITH JAVA", "", "OOPS WITH JAVA", "WEB PROGRAMMING", "", "", "", "" ],
+        "B" : [ null, "HARDWARE STUDY", "THERMODYNAMICS ONE", "ELECTROSTATICS", "MATHEMATICS", "", "", "HARDWARE STUDY", "MATHEMATICS", "ELECTROSTATICS", "FLUIDS", "", "", "MATHEMATICS", "HARDWARE STUDY", "FLUIDS", "THERMODYNAMICS ONE", "", "", "FLUIDS", "THERMODYNAMICS ONE", "HARDWARE STUDY", "", "", "", "HARDWARE STUDY", "THERMODYNAMICS ONE", "ELECTROSTATICS", "FLUIDS", "MATHEMATICS", "", "MATHEMATICS", "ELECTROSTATICS", "THERMODYNAMICS ONE", "", "", "" ],
+        "C" : [ null, "OPERATING SYSTEMS", "AUTOMATA", "MICRO PROCESSORS", "DATABASE MANAGEMENT", "", "", "OPERATING SYSTEMS", "DATABASE MANAGEMENT", "MICRO PROCESSORS", "DATA ALGORITHMS", "", "", "DATABASE MANAGEMENT", "OPERATING SYSTEMS", "DATA ALGORITHMS", "AUTOMATA", "", "", "DATA ALGORITHMS", "AUTOMATA", "OPERATING SYSTEMS", "", "", "", "OPERATING SYSTEMS", "AUTOMATA", "MICRO PROCESSORS", "DATA ALGORITHMS", "DATABASE MANAGEMENT", "", "DATABASE MANAGEMENT", "MICRO PROCESSORS", "AUTOMATA", "", "", "" ],
+        "E" : [ null, "SOLID MECHANICS", "THERMODYNAMICS TWO", "TORQUE", "MATHEMATICS TWO", "", "", "SOLID MECHANICS", "MATHEMATICS TWO", "TORQUE", "ROTATION DYNAMICS", "", "", "MATHEMATICS TWO", "SOLID MECHANICS", "ROTATION DYNAMICS", "THERMODYNAMICS TWO", "", "", "ROTATION DYNAMICS", "THERMODYNAMICS TWO", "SOLID MECHANICS", "", "", "", "SOLID MECHANICS", "THERMODYNAMICS TWO", "TORQUE", "ROTATION DYNAMICS", "MATHEMATICS TWO", "", "MATHEMATICS TWO", "TORQUE", "THERMODYNAMICS TWO", "", "", "" ],
+        "ds051" : [ null, "MSE101", "", "MSE302", "", "MSE304", "", "MSE501", "", "MSE304", "", "", "", "MSE304", "", "MSE101", "", "MSE302", "", "", "MSE304", "", "MSE501", "", "MSE101", "", "MSE501", "", "MSE304", "", "", "MSE101", "", "", "", "MSE302", "" ],
+        "ds101" : [ null, "CSE101", "", "CSE302", "", "CSE304", "", "CSE501", "", "CSE304", "", "", "", "CSE304", "", "CSE101", "", "CSE302", "", "", "CSE304", "", "CSE501", "", "CSE101", "", "CSE501", "", "CSE304", "", "", "CSE101", "", "", "", "CSE302", "" ]
+      }
+    }
+  },
+  "faculty" : {
+    "OEIqxAlWcOMHB6VYOLC7H17FSoD2" : {
+      "dept" : "cse",
+      "email" : "gautam@gmail.com",
+      "fid" : "ds103",
+      "name" : "Gautam Prasad"
+    },
+    "S1UhR6weI7cNpVw7wdLgGNZ3fkS2" : {
+      "dept" : "mech",
+      "email" : "isha@gmail.com",
+      "fid" : "ds051",
+      "name" : "Isha Sharma"
+    },
+    "SplDo0FKplfz6o8o3IGaIXrGUsb2" : {
+      "dept" : "cse",
+      "email" : "sahir@gmail.com",
+      "fid" : "ds102",
+      "name" : "Sahir Shrivatsav"
+    },
+    "WnUoqV820ifIeqsnR1CzlVujEYu2" : {
+      "dept" : "cse",
+      "email" : "aneez1100@gmail.com",
+      "fid" : "ds101",
+      "name" : "Aneesha Panigrahi"
+    },
+    "cevswBkpsgSvna8gUQ9PFJq7VRL2" : {
+      "dept" : "mech",
+      "email" : "zishan@gmail.com",
+      "fid" : "ds052",
+      "name" : "Zishan Ali"
+    }
+  },
+  "students" : {
+    "0pboeBLwlAa775kD5qUcd6Prz7z2" : {
+      "branch" : "cse",
+      "email" : "alpeshrocks218@gmail.com",
+      "name" : "Alpesh Shinde",
+      "sec" : "4",
+      "sem" : "C",
+      "status" : "1",
+      "usn" : "1DS18CS147"
+    },
+    "5AMOTWOKAtaqh3qicXY3BgAMxwt1" : {
+      "branch" : "cse",
+      "email" : "uthara@gmail.com",
+      "name" : "Uthara Ramesh",
+      "sec" : "4",
+      "sem" : "C",
+      "status" : "1",
+      "usn" : "1DS18CS143"
+    },
+    "5IMaWzJ5JsUNeeEwXQo1DZbiOXF2" : {
+      "branch" : "cse",
+      "email" : "adp@gmail.com",
+      "name" : "Akshay Prabhu",
+      "sec" : "4",
+      "sem" : "A",
+      "status" : "1",
+      "usn" : "1DS18CS100"
+    },
+    "5tNQssShobR2q1RcPiEt8JPZgcw1" : {
+      "branch" : "mech",
+      "email" : "swami@gmail.com",
+      "name" : "Swami Chellapa",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME010"
+    },
+    "AKCQlcUzwQcZwzWM9I3RvNk9tJg1" : {
+      "branch" : "mech",
+      "email" : "rohit@gmail.com",
+      "name" : "Rohit Hasnani",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME005"
+    },
+    "B4kdSWZU2WhTamlL2zeCGXbUCd53" : {
+      "branch" : "mech",
+      "email" : "pradumn@gmail.com",
+      "name" : "Pradumn Porwal",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME008"
+    },
+    "PJoOkO5K8yWqpQ6QeQFDNTmD8Ul1" : {
+      "branch" : "mech",
+      "email" : "hritambh@gmail.com",
+      "name" : "Hritambh Ritviz",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME007"
+    },
+    "TNijbzPgrfdtnIJPTUsGlIg3osF2" : {
+      "branch" : "mech",
+      "email" : "paji@gmail.com",
+      "name" : "Uthkarsh Singh",
+      "sec" : "4",
+      "sem" : "B",
+      "status" : "1",
+      "usn" : "1DS18ME004"
+    },
+    "ezyIJkuuxJcDer5A9g4BCjSxfr53" : {
+      "branch" : "mech",
+      "email" : "himanshu@gmail.com",
+      "name" : "Himanshu Sarad",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME009"
+    },
+    "hRgqgEjRzOOaTjvyTG2h7NyYd3z2" : {
+      "branch" : "mech",
+      "email" : "adarsh@gmail.com",
+      "name" : "Adarsh Panda",
+      "sec" : "4",
+      "sem" : "B",
+      "status" : "1",
+      "usn" : "1DS18ME002"
+    },
+    "iLC7n2H6jiMj4FqtUBfu153bEYi2" : {
+      "branch" : "mech",
+      "email" : "manish@gmail.com",
+      "name" : "Manish Priyadarshani",
+      "sec" : "4",
+      "sem" : "B",
+      "status" : "1",
+      "usn" : "1DS18ME003"
+    },
+    "k6GV0KEJnoYhjPZgZZpBKPywx8z1" : {
+      "branch" : "cse",
+      "email" : "akhil@gmail.com",
+      "name" : "Akhil Rautela",
+      "sec" : "4",
+      "sem" : "C",
+      "status" : "1",
+      "usn" : "1DS18CS148"
+    },
+    "wTdxDg2HAhVjAVVccCG6IqvDhF33" : {
+      "branch" : "cse",
+      "email" : "apeksha@gmail.com",
+      "name" : "Apeksha Patil",
+      "sec" : "4",
+      "sem" : "A",
+      "status" : "1",
+      "usn" : "1DS18CS101"
+    },
+    "xeBQNMa0rxMDUDma2gPAaTbqNX93" : {
+      "branch" : "mech",
+      "email" : "yash@gmail.com",
+      "name" : "Yash Sinha",
+      "sec" : "4",
+      "sem" : "B",
+      "status" : "1",
+      "usn" : "1DS18ME001"
+    },
+    "xkdu79QT7wYWGN3HmFl3s6w3rtA3" : {
+      "branch" : "mech",
+      "email" : "kunal@gmail.com",
+      "name" : "Kunal Gupta",
+      "sec" : "4",
+      "sem" : "E",
+      "status" : "1",
+      "usn" : "1DS18ME006"
+    }
+  }
+}

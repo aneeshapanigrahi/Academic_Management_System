@@ -1,0 +1,20 @@
+This project contain two login portals one for student and another for faculty
+Both of them have a login and registration options
+On registration your account will be created using  Authenticate feature of google firebase & all the data will be stored in firebse realtime database.
+On Signing in as Faculty you get following features
+-self profile
+-complete department syllabus
+-timetable
+-complete department notes
+-student records
+-update notice option
+-change password option for students
+-logout
+On Signing in as student you get following features
+-self profile
+-your syllabus
+-timetable
+-your notes
+-faculty details of your teachers
+-notice
+-logout

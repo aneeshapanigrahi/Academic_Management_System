@@ -1,0 +1,6 @@
+install python 3 latest version
+install listed pacakages
+firebase
+pyrebase
+tkinter
+PIL
